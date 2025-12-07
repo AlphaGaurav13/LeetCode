@@ -71,7 +71,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | # | Title | Difficulty |
 |---| ----- | -------- | 
 |  | **HEAP** | | 
-|378| [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Medium |
+|378| [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)* | Medium |
 |659| [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | Medium |
 |692| [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium |
 |973| [K Closest Points to Origin ](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium |
