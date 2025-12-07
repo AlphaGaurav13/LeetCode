@@ -25,7 +25,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | # | Title | Difficulty |
 |---| ----- | -------- | 
 |  | **Two Pointers** | | 
-|350| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy |
+|350| [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)* | Easy |
 |560| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium |
 |1234| [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | Medium |
 |632| [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | Hard |
