@@ -6,7 +6,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | # | Title | Difficulty |
 |---| ----- | -------- | 
 |  | **Array** | | 
-|15| [3Sum](https://leetcode.com/problems/3sum)*| Medium |
+|15| [3Sum](https://leetcode.com/problems/3sum)**| Medium |
 |1324| [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)* | Medium |
 |566| [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)* | Easy |
 |14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy |
