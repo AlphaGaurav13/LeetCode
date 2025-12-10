@@ -54,7 +54,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 | # | Title | Difficulty |
 |---| ----- | -------- | 
 |  | **GREEDY** | | 
-|122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy |
+|122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)* | Easy |
 |392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy |
 |1029| [Two City Scheduling ](https://leetcode.com/problems/two-city-scheduling/) | Easy |
 |406| [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | Medium |
