@@ -11,7 +11,7 @@ I classify 200 leetcode problems into fundamental algorithms and upload my C++ a
 |566| [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)** | Easy |
 |14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy |
 |763| [Partition Labels](https://leetcode.com/problems/partition-labels/)** | Medium |
-|55| [Jump Game](https://leetcode.com/problems/jump-game/)* | Medium |
+|55| [Jump Game](https://leetcode.com/problems/jump-game/)** | Medium |
 |33| [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |
 |1465| [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | Medium |
 |1894| [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | Medium |
